@@ -1,5 +1,11 @@
 # Ingredients
 
-Peas,Onions,Potato,Salt,Spring Onions,Pepper
+Peas,
+Onions,
+Potato,
+Salt,
+Spring Onions,
+Pepper
 
 # Instructions
+
