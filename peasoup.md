@@ -9,3 +9,4 @@ Pepper
 
 # Instructions
 - wash and shell the peas
+- Chop onions
