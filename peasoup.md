@@ -8,4 +8,4 @@ Spring Onions,
 Pepper
 
 # Instructions
-
+- wash and shell the peas
